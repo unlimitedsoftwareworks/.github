@@ -1,11 +1,5 @@
 # UnlimitedSoftwareWorks
 
-<center>
-
-![](../assets/logo-xs.png)
-
-</center>
-
 UnlimitedSoftwareWorks is the workspace for [praisethemoon](https://praisethemoon.org) where he places all of his big projects. 
 
 Most importantly, at this time, this organization hosts the Type-C programming language eco-system:
@@ -13,32 +7,20 @@ Most importantly, at this time, this organization hosts the Type-C programming l
 <table>
     <tr>
         <td>
-            <img src="../assets/type-c-v2.png" height="100"/>
-        </td>
-        <td>
             Type-C Compiler
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="../assets/type-v-circular-xs.png" height="100"/>
-        </td>
         <td>
             Type-V Virtual Machine
         </td>
     </tr>
     <tr>
         <td>
-            <img src="../assets/type-c-v2.png" height="100"/>
-        </td>
-        <td>
             Type-C Standard Library
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="../assets/type-c-v2.png" height="100"/>
-        </td>
         <td>
             Type-C Website and Docs
         </td>
