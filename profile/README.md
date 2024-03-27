@@ -2,7 +2,7 @@
 
 <center>
 
-![](assets/logo-xs.png)
+![](../assets/logo-xs.png)
 
 </center>
 
