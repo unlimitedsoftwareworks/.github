@@ -32,3 +32,11 @@ Most importantly, at this time, this organization hosts the Type-C programming l
 
 Type-C is a programming language that I am designing, every aspect of the language has been designed with performance and effeciency in mind.
 The language is still in early stages of development and syntax isn't set in stone just yet, so if you have any idea or thoughts, now is the time to leave your mark! 
+
+
+## Links:
+
+| Resource | Link |
+|:---|:---|
+|`Type-C's Website`| https://typec.praisethemoon.org/ |
+|`praisethemoon website`|https://praisethemoon.org|
